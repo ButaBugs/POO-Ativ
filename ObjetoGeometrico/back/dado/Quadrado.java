@@ -1,10 +1,10 @@
-package geometria;
+package back.dado;
 
 public class Quadrado extends ObjetoGeometrico {
 	
 	private double lado;
 	
-	Quadrado (double l) {
+	public Quadrado (double l) {
 		lado = l;
 	}
 	

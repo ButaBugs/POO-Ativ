@@ -1,10 +1,10 @@
-package geometria;
+package back.dado;
 
 public class Retangulo extends ObjetoGeometrico {
 	private double comprimento;
 	private double altura;
 	
-	Retangulo(double c, double a) {
+	public Retangulo(double c, double a) {
 		comprimento = c;
 		altura = a;
 	}

@@ -1,4 +1,4 @@
-package geometria;
+package back.dado;
 
 public interface InterfaceGeometria {
 	

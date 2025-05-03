@@ -1,10 +1,10 @@
-package geometria;
+package back.dado;
 
 public class Triangulo extends ObjetoGeometrico {
 	private double base;
 	private double altura;
 	
-	Triangulo(double b, double a) {
+	public Triangulo(double b, double a) {
 		base = b;
 		altura = a;
 	}

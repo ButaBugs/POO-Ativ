@@ -1,4 +1,4 @@
-package geometria;
+package back.dado;
 
 public abstract class ObjetoGeometrico implements InterfaceGeometria {
 	protected double area;
