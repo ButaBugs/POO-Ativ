@@ -14,6 +14,6 @@ public class Front {
         System.out.println(fachada.mostraAreaObjetos());
         String mensagem = fachada.mostraPerimetroObjetos();
         System.out.println(mensagem);
-
+        
     }
 }
