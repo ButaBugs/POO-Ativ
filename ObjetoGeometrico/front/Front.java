@@ -4,7 +4,7 @@ import back.negocio.QuadroNegro;
 
 public class Front {
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+        //TODO Auto-generated method stub
 
         Fachada fachada = new Fachada();
         fachada.criaQuadrado(10.6);
@@ -15,8 +15,5 @@ public class Front {
         String mensagem = fachada.mostraPerimetroObjetos();
         System.out.println(mensagem);
 
-
-
     }
-    }
-
+}
